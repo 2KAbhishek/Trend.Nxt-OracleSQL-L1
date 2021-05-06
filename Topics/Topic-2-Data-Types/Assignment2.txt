@@ -1,0 +1,32 @@
+Topic 2: Data Types
+
+Assignment:2
+
+a. CHAR data type allows you to store fixed-length character strings. The CHAR data type can store a character string with the size from 1 to 2000 bytes.
+   NCHAR datatype is used to store fixed-length Unicode character data.The maximum size of the NCHAR column is always in the character length semantics.
+
+b. NUMBER(p,s), BINARY_FLOAT, BINARY_DOUBLE, BOOLEAN, PLS_INTEGER, BINARY_INTEGER, INTEGER, FLOAT, DECIMAL.
+
+c. The DATE data type stores a point in time and includes both the date and time component. It stores: The year,Month,Day,Hours,Minutes,Seconds.
+   The TIMESTAMP data type is very similar to the DATE data type, except that it allows you to store fractions of a second. Allows for more granular time storage than the DATE function.
+   TIMESTAMP(p).
+
+d. BLOB data type is used to store unstructured binary large objects,means it can store a lot of data in a single file, but it cannot store character data.It has a maximum size of 4 GB.
+   BFILE data type is used to refer to other files on the server, which are outside of the database system. It stores a pointer to a file.They are read-only to Oracle. The maximum size is 4 GB.
+
+e. INTEGER is used to store large integers with a precision of 31 bits. The range of INTEGER is -2,147,483,648 to +2,147,483,647.
+   SMALLINT is used to stores small integers with a precision of 15 bits. The range of SMALLINT is -32,768 to +32,767.
+
+f. NUMBER data type is used to store fixed and floating-point numbers means can store positive numbers, and negative numbers, and can store up to 38 digits and need to specify a precision and a scale.
+   INTEGER data type is an ANSI standard data type, It can only take whole numbers.
+
+g. DATE
+
+h. LONG datatype means Variable length character string, contain text data.Store data of up to 2GB.
+   RAW -similar to VARCHAR2 but is used when you don’t want the data to be converted between systems.It stores a variable-length string.
+
+i. VARCHAR2 data type stores alphanumeric values in variable-length strings, means the lenght is variable.
+   NVARCHAR2 stores Unicode data and allows multi-byte characters to be stored in a variable-length field.When define , specify the size in characters.
+
+j. BLOB data type is used to store unstructured binary large objects means useful for storing images or audio files.
+   CLOB data type is used to store large amounts of character data that cannot fit into a VARCHAR2 column.
