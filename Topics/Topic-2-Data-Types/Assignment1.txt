@@ -1,0 +1,24 @@
+Topic 2: Data Types
+
+Assignment: 1
+
+a. Sal NUMERIC is a number which has no precision and scale whereas Sal NUMBER(10,2) is a valid number datatype with precision and scale that has 8 digits before the decimal and 2 digits after the decimal.
+
+b. Both are character data type in ORACLE SQL, but CHAR(48) is a fixed-length character data type, whereas VARCHAR(48) is a dynamic-length character data type.
+
+c. CHAR datatype stores fixed length  character strings. VARCHAR2 datatype stores variable length character strings. CLOB datatype stores single byte or multi byte character string upto 4 gigabytes.
+
+d. VARCHAR2, NVARCHAR2, NUMBER, FLOAT, LONG, DATE, BINARY_FLOAT, BINARY_DOUBLE, TIMESTAMP, TIMESTAMP WITH TIME ZONE, TIMESTAMP WITH LOCAL TIME ZONE, INTERVAL YEAR TO MONTH, INTERVAL DAY TO SECOND, RAW, LONG RAW, ROWID, UROWID, CHAR, NCHAR, CLOB, NCLOB, BLOB, BFILE.
+
+e. CLOB stores character large objects containing single-byte or multibyte characters. BLOB stores binary large objects.
+
+f. DATE
+
+g. DD-MON-YY
+
+h. SELECT to_char(sysdate, 'MON DD YYYY') FROM dual;
+
+i. NUMBER stores values as fixed-point numbers using 1 to 22 bytes. BINARY_FLOAT stores values as single precision floating-point numbers of 4bytes.
+
+j. BFILE is a data type used to store a locator (link) to an external binary file that is stored outside of the database.
+
