@@ -35,7 +35,7 @@
 
 ## Inspiration
 
-Bareminimum was inspired by `<reason/idea>`.
+Trend.Nxt-OracleSQL-L1 was inspired by `<reason/idea>`.
 
 ## What it does
 
