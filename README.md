@@ -1,4 +1,4 @@
-<div align = "center">
+<div align="center">
 
 <h1><a href="https://2kabhishek.github.io/Trend.Nxt-OracleSQL-L1">Trend.Nxt-OracleSQL-L1</a></h1>
 
@@ -23,79 +23,43 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Short sweet headline with 🎇🎉</h2>
+<h2>Solutions for OracleSQL L1 🗄️✅</h2>
 
 </div>
-
-## Inspiration
-
-Trend.Nxt-OracleSQL-L1 was inspired by `<reason/idea>`.
-
-## What it does
-
-Trend.Nxt-OracleSQL-L1 is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed `Oracle SQL Server`
 
-## Installing Trend.Nxt-OracleSQL-L1
+## Get Trend.Nxt-OracleSQL-L1
 
-To install Trend.Nxt-OracleSQL-L1, follow these steps:
+To clone Trend.Nxt-OracleSQL-L1, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/Trend.Nxt-OracleSQL-L1
 cd Trend.Nxt-OracleSQL-L1
-<install_command>
 ```
 
 ## Using Trend.Nxt-OracleSQL-L1
 
+Use this for your reference, all code is placed under `Topics` directory, once you have any `Oracle SQL Server` installed you can edit and run these locally.
+
 ```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
+cd Topics/
+edit file.sql # Edit
+open file.sql # Run
 ```
 
-## How it was built
-
-Trend.Nxt-OracleSQL-L1 was built using `<tech/library>`
-
-## Challenges faced
-
-While building Trend.Nxt-OracleSQL-L1 the main challenges were `<issue/difficulty>`
-
-## What I learned
-
-While building Trend.Nxt-OracleSQL-L1 I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-
-Hit the :star: button if you found this useful.
+Hit the ⭐ button if you found this useful.
 
 ## More Info
 
 <div align="center">
+
+<strong>Disclaimer!</strong><br>
+These solutions have been shared for learning purposes only. <br>
 
 <a href="https://github.com/2KAbhishek/Trend.Nxt-OracleSQL-L1">Source</a> |
 <a href="https://2kabhishek.github.io/Trend.Nxt-OracleSQL-L1">Website</a>
